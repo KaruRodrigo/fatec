@@ -1,0 +1,5 @@
+<%@ page pageEncoding="UTF-8" %>
+<a href="index.jsp">Início  /  </a>
+<a href="home.jsp">Identificação  /  </a>
+<a href="tabela_price.jsp">Tabela Price </a>
+<p>---------------------------------------------------------------------</p>
