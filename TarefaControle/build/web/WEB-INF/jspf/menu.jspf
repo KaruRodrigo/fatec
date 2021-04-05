@@ -1,0 +1,7 @@
+<%@ page pageEncoding="UTF-8" %>
+<h3>Menu</h3>
+<a href="index.jsp">Index</a> /
+<a href="application.jsp">Aplication</a> /
+<a href="session.jsp">Session</a> /
+<a href="request.jsp">Request</a>
+<hr/>
